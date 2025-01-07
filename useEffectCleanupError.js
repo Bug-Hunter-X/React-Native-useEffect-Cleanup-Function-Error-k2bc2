@@ -1,0 +1,1 @@
+This error occurs when using the `useEffect` hook in React Native with a cleanup function that throws an error. This typically happens when the cleanup function tries to access a component that has already been unmounted.
